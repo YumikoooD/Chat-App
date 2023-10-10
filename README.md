@@ -1,5 +1,6 @@
 # Chat-App
 Chat application in javascript. 
+(One of my first uses of js)
 
 Utilisation:
 
